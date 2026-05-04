@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jklewa/data-with-babish-showcase/actions/workflows/deploy.yml"><img src="https://github.com/jklewa/data-with-babish-showcase/actions/workflows/deploy.yml/badge.svg" alt="Deploy"></a>
-  <a href="https://jklewa.github.io/data-with-babish-showcase/"><img src="https://img.shields.io/badge/live-site-f5b300" alt="Live site"></a>
+  <a href="https://github.com/jklewa/babish-archive/actions/workflows/deploy.yml"><img src="https://github.com/jklewa/babish-archive/actions/workflows/deploy.yml/badge.svg" alt="Deploy"></a>
+  <a href="https://jklewa.github.io/babish-archive/"><img src="https://img.shields.io/badge/live-site-f5b300" alt="Live site"></a>
   <a href="https://github.com/jklewa/data-with-babish"><img src="https://img.shields.io/badge/data-with--babish-444" alt="Dataset"></a>
 </p>
 
 <p align="center">
-  <a href="https://jklewa.github.io/data-with-babish-showcase/">
+  <a href="https://jklewa.github.io/babish-archive/">
     <img src="docs/preview.png" alt="BWB Archive preview" width="820">
   </a>
 </p>
@@ -68,7 +68,7 @@ Open <http://localhost:3000>.
 The repo is wired for GitHub Pages out of the box:
 
 - `output: "export"` writes a static site to `out/`
-- `basePath` and `assetPrefix` are scoped to `/data-with-babish-showcase` in production
+- `basePath` and `assetPrefix` are scoped to `/babish-archive` in production
 - `trailingSlash: true` keeps URLs Pages-friendly
 - `images.unoptimized: true` skips the Next image optimizer (required for static export)
 

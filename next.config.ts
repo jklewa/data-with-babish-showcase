@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const isProd = process.env.NODE_ENV === "production";
-const repo = "data-with-babish-showcase";
+const repo = "babish-archive";
 
 const nextConfig: NextConfig = {
   output: "export",
