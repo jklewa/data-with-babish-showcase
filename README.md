@@ -2,6 +2,8 @@
 
 [![Deploy](https://github.com/jklewa/data-with-babish-showcase/actions/workflows/deploy.yml/badge.svg)](https://github.com/jklewa/data-with-babish-showcase/actions/workflows/deploy.yml)
 
+[![BWB Archive preview](docs/preview.png)](https://jklewa.github.io/data-with-babish-showcase/)
+
 An interactive, searchable gallery of every movie, TV show, video game, and other media that has inspired an episode of [Binging with Babish](https://www.bingingwithbabish.com). Browse by medium, search by title or dish, and click any tile to see every episode tied to that reference.
 
 🔗 **Live site:** https://jklewa.github.io/data-with-babish-showcase/
@@ -11,7 +13,7 @@ An interactive, searchable gallery of every movie, TV show, video game, and othe
 
 ## Features
 
-- **230+ references** spanning films, TV, games, comedy specials, and YouTube channels
+- **130+ references and 200+ dishes** spanning films, TV, games, comedy specials, and YouTube channels
 - **Filter by medium** with live counts (Movie / TV Show / Video Game / Comedy / YouTube / Other)
 - **Fuzzy search** across reference names *and* episode titles — find a dish without remembering the source
 - **Per-reference detail pages** with full episode lists, embedded YouTube links, and outbound links to IMDb / Steam / official sites
