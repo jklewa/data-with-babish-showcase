@@ -2775,7 +2775,7 @@
     "name": "Master of None",
     "description": "The personal and professional life of Dev, a 30-year-old actor in New York. IMDb.",
     "external_link": "https://www.imdb.com/title/tt4635276/",
-    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Master_of_None_Logo.svg/330px-Master_of_None_Logo.svg.png",
+    "image_link": null,
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/spaghetti-carbonara-inspired-by-master-of-none",
