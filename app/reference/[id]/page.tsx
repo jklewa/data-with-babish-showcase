@@ -8,6 +8,18 @@ import {
   youtubeIdFromUrl,
 } from "@/lib/references";
 
+function externalLinkLabel(url: string): string {
+  try {
+    const host = new URL(url).hostname;
+    if (host.includes("imdb.com")) return "View on IMDb";
+    if (host.includes("youtube.com") || host.includes("youtu.be")) return "Watch on YouTube";
+    if (host.includes("steampowered.com")) return "View on Steam";
+    return `Visit ${host.replace(/^www\./, "")}`;
+  } catch {
+    return "External link";
+  }
+}
+
 export function generateStaticParams() {
   return getReferences().map((r) => ({ id: r.slug }));
 }
@@ -68,9 +80,11 @@ export default async function ReferencePage({ params }: PageProps) {
           {ref.external_link && (
             <a
               href={ref.external_link}
+              target="_blank"
+              rel="noopener noreferrer"
               className="font-mono text-xs uppercase tracking-wider text-accent hover:underline"
             >
-              View on IMDb ↗
+              {externalLinkLabel(ref.external_link)} ↗
             </a>
           )}
         </div>
