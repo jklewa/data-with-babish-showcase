@@ -7,7 +7,7 @@ An interactive, searchable gallery of every movie, TV show, video game, and othe
 🔗 **Live site:** https://jklewa.github.io/data-with-babish-showcase/
 📊 **Data source:** [`jklewa/data-with-babish`](https://github.com/jklewa/data-with-babish) — a scraped, normalized dataset of the show's references and recipes.
 
-> Not affiliated with Andrew Rea or the Babish Culinary Universe. This is a fan-built showcase of public dataset.
+> Not affiliated with Andrew Rea or the Babish Culinary Universe. This is a fan-built showcase of a public dataset.
 
 ## Features
 
