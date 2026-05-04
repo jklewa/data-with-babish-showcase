@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BWB Archive — Every film, show & game cooked on Binging with Babish
 
-## Getting Started
+[![Deploy](https://github.com/jklewa/data-with-babish-showcase/actions/workflows/deploy.yml/badge.svg)](https://github.com/jklewa/data-with-babish-showcase/actions/workflows/deploy.yml)
 
-First, run the development server:
+An interactive, searchable gallery of every movie, TV show, video game, and other media that has inspired an episode of [Binging with Babish](https://www.bingingwithbabish.com). Browse by medium, search by title or dish, and click any tile to see every episode tied to that reference.
+
+🔗 **Live site:** https://jklewa.github.io/data-with-babish-showcase/
+📊 **Data source:** [`jklewa/data-with-babish`](https://github.com/jklewa/data-with-babish) — a scraped, normalized dataset of the show's references and recipes.
+
+> Not affiliated with Andrew Rea or the Babish Culinary Universe. This is a fan-built showcase of public dataset.
+
+## Features
+
+- **230+ references** spanning films, TV, games, comedy specials, and YouTube channels
+- **Filter by medium** with live counts (Movie / TV Show / Video Game / Comedy / YouTube / Other)
+- **Fuzzy search** across reference names *and* episode titles — find a dish without remembering the source
+- **Per-reference detail pages** with full episode lists, embedded YouTube links, and outbound links to IMDb / Steam / official sites
+- **Statically exported** — no server, no database, deploys anywhere (GitHub Pages by default)
+- **Dark, editorial design** with serif display type, monospace accents, and a responsive grid
+
+## Tech stack
+
+- [Next.js 16](https://nextjs.org) (App Router) with `output: "export"` for fully static builds
+- [React 19](https://react.dev)
+- [Tailwind CSS 4](https://tailwindcss.com)
+- TypeScript, ESLint 9
+- Geist & Geist Mono via `next/font`
+
+The dataset ships as a single JSON file (`data/references.json`); all pages and dynamic routes are pre-rendered at build time via `generateStaticParams`.
+
+## Getting started
+
+Requires Node.js 20+.
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Command | What it does |
+| --- | --- |
+| `npm run dev` | Start the dev server with hot reload |
+| `npm run build` | Produce a static export in `out/` |
+| `npm run start` | Serve a previously built production app |
+| `npm run lint` | Run ESLint |
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+The site is configured for GitHub Pages out of the box:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `output: "export"` writes a static site to `out/`
+- `basePath` and `assetPrefix` are scoped to `/data-with-babish-showcase` in production
+- `trailingSlash: true` keeps URLs Pages-friendly
+- `images.unoptimized: true` skips the Next image optimizer (required for static export)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To deploy to a different host or path, edit `next.config.ts` (the `repo` constant controls the base path) and publish the contents of `out/`.
 
-## Deploy on Vercel
+## Project layout
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+app/
+  layout.tsx              # Root layout, fonts, metadata
+  page.tsx                # Home — header + Gallery
+  reference/[id]/page.tsx # Per-reference detail page (statically generated)
+components/
+  Gallery.tsx             # Filter + search + grid (client component)
+  ReferenceCard.tsx       # Tile rendering
+data/
+  references.json         # The dataset
+lib/
+  references.ts           # Types, loader, slugify, helpers
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Updating the data
+
+`data/references.json` is sourced from [`jklewa/data-with-babish`](https://github.com/jklewa/data-with-babish). To refresh:
+
+1. Pull the latest export from the upstream dataset
+2. Replace `data/references.json`
+3. Rebuild — `lib/references.ts` handles slugging, sorting, and date ordering
+
+The loader sorts references by episode count (most-inspired first), then alphabetically; episodes within a reference are sorted newest-first.
+
+## Contributing
+
+Issues and PRs are welcome — especially for:
+
+- Broken images or dead external links (the dataset has a long tail)
+- Missing references (open an issue against the upstream [data-with-babish](https://github.com/jklewa/data-with-babish) repo first)
+- Accessibility, performance, and design polish
+
+## Acknowledgments
+
+- **Andrew Rea** and the entire Babish Culinary Universe team for years of incredible food content
+- **bingingwithbabish.com** and YouTube for the public episode metadata that powers the dataset
+- Built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com)
