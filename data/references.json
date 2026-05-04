@@ -127,7 +127,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/cremebrule",
         "episode_id": "cremebrule",
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e inspired by Amelie",
+        "name": "Crème Brûlée inspired by Amelie",
         "published_date": "2018-04-03",
         "youtube_link": "https://www.youtube.com/watch?v=dn_aaxZIA2o",
         "official_link": "https://www.bingingwithbabish.com/recipes/2017/8/22/cremebrule",
@@ -139,15 +139,15 @@
     "self": "ibdb://data-with-babish.jklewa.github.com/reference/63",
     "reference_id": 63,
     "type": "movie",
-    "name": "Am\u00e9lie",
-    "description": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. IMDb.",
+    "name": "Amélie",
+    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0211915/",
     "image_link": "https://img.youtube.com/vi/ApmwOOjadYI/mqdefault.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/cremebrule",
         "episode_id": "cremebrule",
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e inspired by Amelie",
+        "name": "Crème Brûlée inspired by Amelie",
         "published_date": "2018-04-03",
         "youtube_link": "https://www.youtube.com/watch?v=dn_aaxZIA2o",
         "official_link": "https://www.bingingwithbabish.com/recipes/2017/8/22/cremebrule",
@@ -523,7 +523,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/thegreystuff",
         "episode_id": "thegreystuff",
-        "name": "The Grey Stuff & Other Hors d\u2019Oeuvres inspired by Beauty & the Beast",
+        "name": "The Grey Stuff & Other Hors d’Oeuvres inspired by Beauty & the Beast",
         "published_date": "2019-01-03",
         "youtube_link": "https://www.youtube.com/watch?v=0TvBiF9S89Q",
         "official_link": "https://www.bingingwithbabish.com/recipes/thegreystuff",
@@ -543,7 +543,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/thegreystuff",
         "episode_id": "thegreystuff",
-        "name": "The Grey Stuff & Other Hors d\u2019Oeuvres inspired by Beauty & the Beast",
+        "name": "The Grey Stuff & Other Hors d’Oeuvres inspired by Beauty & the Beast",
         "published_date": "2019-01-03",
         "youtube_link": "https://www.youtube.com/watch?v=0TvBiF9S89Q",
         "official_link": "https://www.bingingwithbabish.com/recipes/thegreystuff",
@@ -632,7 +632,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/teddybrulee",
         "episode_id": "teddybrulee",
-        "name": "Teddy Br\u00fbl\u00e9e inspired by Bob's Burgers",
+        "name": "Teddy Brûlée inspired by Bob's Burgers",
         "published_date": "2019-05-14",
         "youtube_link": "https://www.youtube.com/watch?v=6pXjR0JyV0s",
         "official_link": "https://www.bingingwithbabish.com/recipes/teddybrulee",
@@ -671,9 +671,9 @@
     "self": "ibdb://data-with-babish.jklewa.github.com/reference/77",
     "reference_id": 77,
     "type": "other",
-    "name": "Bon App\u00e9tit's It's Alive With Brad",
-    "description": "A Bon App\u00e9tit cooking series hosted by Brad Leone",
-    "external_link": "https://video.bonappetit.com/series/it-s-alive-with-brad",
+    "name": "Bon Appétit's It's Alive With Brad",
+    "description": "A Bon Appétit cooking series hosted by Brad Leone",
+    "external_link": null,
     "image_link": "https://img.youtube.com/vi/zr8wAm7i-vo/mqdefault.jpg",
     "episodes_inspired": [
       {
@@ -2106,7 +2106,7 @@
     "reference_id": 103,
     "type": "movie",
     "name": "I Love You, Man",
-    "description": "Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fianc\u00e9e, can the trio learn to live happily ever after? IMDb.",
+    "description": "Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fiancée, can the trio learn to live happily ever after? IMDb.",
     "external_link": "https://www.imdb.com/title/tt1155056/",
     "image_link": "https://img.youtube.com/vi/1RYUfEowXgc/mqdefault.jpg",
     "episodes_inspired": [
@@ -2217,7 +2217,7 @@
     "name": "Jim Gaffigan's Stand Up",
     "description": "Indiana native Jim Gaffigan arrived in New York City in 1990 at the age of 24. Officially, he had relocated to work in advertising, but his real fascination with New York had a lot more to do with pursuing his dream of making people laugh as an actor and stand-up comic, a dream he would eventually realize through hard work and ample talent. IMDb.",
     "external_link": "https://www.imdb.com/name/nm0300712/",
-    "image_link": "https://img.youtube.com/vi/-o-u4IwXkbE/mqdefault.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jim_Gaffigan_June_2023_%28cropped%29.jpg/330px-Jim_Gaffigan_June_2023_%28cropped%29.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/cinnamonrolls",
@@ -2437,7 +2437,7 @@
     "name": "King of the Hill",
     "description": "A straight laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends, while also trying to keep his son in line. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0118375/",
-    "image_link": "https://yt3.ggpht.com/rEz9pe87zWHaKJUJd2-GJHBkrDlqXgk4GX28GGfSizrnRZX4F-hMAuiNT5MAUTiphZUdt-Mt8Q=s288-c-k-c0xffffffff-no-rj-mo",
+    "image_link": null,
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/kingofthehillspecial",
@@ -2715,7 +2715,7 @@
     "name": "Marvel's Spider-Man",
     "description": "When a new villain threatens New York City, Peter Parker and Spider-Man's worlds collide. To save the city and those he loves, he must rise up and be greater. IMDb.",
     "external_link": "https://www.imdb.com/title/tt5807780/",
-    "image_link": "https://yt3.ggpht.com/c3ynpDktI_tZUzsXdyeujdP8TjIPPex03wALk_G5mcAZqjS27ssd0XvhN5Sl3jySIg48SK_EvA=w390-h540-nd",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/e/e1/Spider-Man_PS4_cover.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/spidermanbackpackrecipes",
@@ -2755,7 +2755,7 @@
     "name": "Mary Jane's Pa",
     "description": "Sam Preston is a small-town newspaper publisher who suffers from wanderlust. Leaving his family (wife Ellen, two daughters and a son,) he thinks well-provided for, he packs a suitcase and hits the road. Ten years later he comes back to find the newspaper shuttered and his family gone. He wanders from town to town searching for them and, finally, comes upon a little lost girl named Mary James, takes her to her home, and discovers she is his youngest daughter. Ellen is now running another newspaper, and is interested in politics...and another man. But after he pleads to remain with his children, she allows him to stay incognito as a housekeeper. Then, the town gossips go to work. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0026689/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BZDQzYjA2OTctM2M4YS00Y2I5LWExNjUtODQ4MmFlOTA3ZDg1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTY0ODExODc@._V1_UY268_CR15,0,182,268_AL_.jpg",
+    "image_link": null,
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/egginanest",
@@ -2775,7 +2775,7 @@
     "name": "Master of None",
     "description": "The personal and professional life of Dev, a 30-year-old actor in New York. IMDb.",
     "external_link": "https://www.imdb.com/title/tt4635276/",
-    "image_link": "https://img.youtube.com/vi/8JCBvAb240I/mqdefault.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Master_of_None_Logo.svg/330px-Master_of_None_Logo.svg.png",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/spaghetti-carbonara-inspired-by-master-of-none",
@@ -2855,7 +2855,7 @@
     "name": "Moon over Miami",
     "description": "Sisters Kay and Barbara arrive in Miami from Texas looking for rich husbands. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0033918/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMjEzNjE0ODA1OV5BMl5BanBnXkFtZTgwNDE1Mjg2MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/4/4d/Moon_over_miami.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/egginanest",
@@ -3120,7 +3120,7 @@
     "name": "Peep Show",
     "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0387764/",
-    "image_link": "https://img.youtube.com/vi/OfKewRzqh8I/mqdefault.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/d/d9/Peep_Show_logo.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/moroccanpasta",
@@ -3197,7 +3197,7 @@
     "self": "ibdb://data-with-babish.jklewa.github.com/reference/18",
     "reference_id": 18,
     "type": "tv_show",
-    "name": "Pok\u00e9mon",
+    "name": "Pokémon",
     "description": "Follows the adventure of Satoshi with his Pokemon, Pikachu and his friends to become the Pokemon master. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0168366/",
     "image_link": "https://i.ytimg.com/sh/4bgqxQYF1YfDZQfSfcg98Q/market.jpg",
@@ -3205,7 +3205,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/brocksdonuts",
         "episode_id": "brocksdonuts",
-        "name": "Brock's Donuts inspired by Pok\u00e9mon",
+        "name": "Brock's Donuts inspired by Pokémon",
         "published_date": "2019-04-02",
         "youtube_link": "https://www.youtube.com/watch?v=RentKWlhUXc",
         "official_link": "https://www.bingingwithbabish.com/recipes/brocksdonuts",
@@ -3214,7 +3214,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/brocksonigiri",
         "episode_id": "brocksonigiri",
-        "name": "Brock's Onigiri inspired by Pok\u00e9mon",
+        "name": "Brock's Onigiri inspired by Pokémon",
         "published_date": "2019-04-02",
         "youtube_link": "https://www.youtube.com/watch?v=gW4PCfLzTYA",
         "official_link": "https://www.bingingwithbabish.com/recipes/brocksonigiri",
@@ -3229,7 +3229,7 @@
     "name": "Portal",
     "description": "A test subject wakes up in a scientific facility controlled by a sadistic artificial intelligence and must escape with the help of the only instrument she has--a gun that makes portals. IMDb.",
     "external_link": "https://www.imdb.com/title/tt1127708/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMmFjNTQzYzItZWRlNC00OTY2LTliZTUtZDU1MTBkNWIyNGUxXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY268_CR16,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/9f/Portal_standalonebox.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/portalcake",
@@ -3378,7 +3378,7 @@
     "name": "Red Dead Redemption 2",
     "description": "Amidst the decline of the Wild West at the turn of the 19th century, outlaw Arthur Morgan and his gang struggle to cope with the loss of their way of life. IMDb.",
     "external_link": "https://www.imdb.com/title/tt6161168/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMThiMGJkNDUtYjIxYy00ZTRhLWE5NmUtNzI4NTJlOGI4ZTMwXkEyXkFqcGdeQXVyNTk1ODMyNjA@._V1_UY268_CR17,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/bearstew",
@@ -4112,7 +4112,7 @@
     "name": "Sweetness and Lightning",
     "description": "Six months after his wife's death, a highschool teacher struggles to raise his daughter due to his inability to cook. When he meets an introverted student, who's also a part-time cook, he decides to learn to cook good meals for his daughter. IMDb.",
     "external_link": "https://www.imdb.com/title/tt5853222/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BY2ZiNzA0M2QtYjE2NC00ZTJjLWIyMDMtN2Q2ZmUwNjFmNjhmXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/1/17/Sweetness_and_Lightning_vol_1.jpg",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/okonomiyaki",
@@ -4157,7 +4157,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/crepessuzette",
         "episode_id": "crepessuzette",
-        "name": "Cr\u00eapes Suzette inspired by Talladega Nights",
+        "name": "Crêpes Suzette inspired by Talladega Nights",
         "published_date": "2019-10-24",
         "youtube_link": "https://www.youtube.com/watch?v=Z1kR6SIr1XA",
         "official_link": "https://www.bingingwithbabish.com/recipes/crepessuzette",
@@ -4177,7 +4177,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/crepessuzette",
         "episode_id": "crepessuzette",
-        "name": "Cr\u00eapes Suzette inspired by Talladega Nights",
+        "name": "Crêpes Suzette inspired by Talladega Nights",
         "published_date": "2019-10-24",
         "youtube_link": "https://www.youtube.com/watch?v=Z1kR6SIr1XA",
         "official_link": "https://www.bingingwithbabish.com/recipes/crepessuzette",
@@ -4277,7 +4277,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/aristocats",
         "episode_id": "aristocats",
-        "name": "Cr\u00e8me de la Cr\u00e8me \u00e0 la Edgar inspired by The Aristocats",
+        "name": "Crème de la Crème à la Edgar inspired by The Aristocats",
         "published_date": "2019-01-23",
         "youtube_link": "https://www.youtube.com/watch?v=zNY-qzp7pD0",
         "official_link": "https://www.bingingwithbabish.com/recipes/aristocats",
@@ -4332,7 +4332,7 @@
     "name": "The Boondocks",
     "description": "Based on the comic strip, Huey and Riley move away from the city and out to the suburbs with their irascible grandfather. Biting socio-political commentary ensues. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0373732/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMjA5OTNhNDQtODU0ZS00MmMyLWJkZmMtZmIyNjRhOTFlODMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Boondocks.png",
     "episodes_inspired": [
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/fried-chicken-waffle-breakfast-lasagna-inspired-by-the-boondocks",
@@ -4673,7 +4673,7 @@
       {
         "self": "ibdb://data-with-babish.jklewa.github.com/episode/michaelscottpretzel",
         "episode_id": "michaelscottpretzel",
-        "name": "Michael Scott\u2019s Pretzel inspired by The Office",
+        "name": "Michael Scott’s Pretzel inspired by The Office",
         "published_date": "2017-10-17",
         "youtube_link": "https://www.youtube.com/watch?v=NHA9Ffaal2M",
         "official_link": "https://www.bingingwithbabish.com/recipes/2017/8/22/michaelscottpretzel",

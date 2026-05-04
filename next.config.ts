@@ -15,6 +15,7 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "i.ytimg.com" },
       { protocol: "https", hostname: "yt3.ggpht.com" },
       { protocol: "https", hostname: "m.media-amazon.com" },
+      { protocol: "https", hostname: "upload.wikimedia.org" },
     ],
   },
 };
