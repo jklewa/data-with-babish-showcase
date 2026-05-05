@@ -24,7 +24,7 @@ An interactive, searchable archive of every movie, TV show, video game, and othe
 
 ## Features
 
-- **130+ references, 200+ dishes** — films, TV, games, comedy specials, and YouTube channels
+- **250+ references, 400+ dishes** — films, TV, games, comedy specials, and YouTube channels
 - **Filter by medium** with live counts (Movie / TV Show / Video Game / Comedy / YouTube / Other)
 - **Fuzzy search** across reference names *and* episode titles — find a dish without remembering the source
 - **Per-reference detail pages** with full episode lists, embedded YouTube links, and outbound links to IMDb, Steam, and official sites
