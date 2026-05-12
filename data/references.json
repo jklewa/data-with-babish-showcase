@@ -133,7 +133,7 @@
     "reference_id": 609,
     "type": "movie",
     "name": "Amadeus",
-    "description": "Milo\u0161 Forman's 1984 biographical drama about Wolfgang Amadeus Mozart, told from Salieri's perspective.",
+    "description": "Miloš Forman's 1984 biographical drama about Wolfgang Amadeus Mozart, told from Salieri's perspective.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -150,14 +150,14 @@
   {
     "reference_id": 63,
     "type": "movie",
-    "name": "Am\u00e9lie",
-    "description": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. IMDb.",
+    "name": "Amélie",
+    "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0211915/",
     "image_link": "https://img.youtube.com/vi/ApmwOOjadYI/mqdefault.jpg",
     "episodes_inspired": [
       {
         "episode_id": "cremebrule",
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e inspired by Amelie",
+        "name": "Crème Brûlée inspired by Amelie",
         "published_date": "2018-04-03",
         "youtube_link": "https://www.youtube.com/watch?v=dn_aaxZIA2o",
         "official_link": "https://www.babi.sh/recipes/cremebrule",
@@ -202,7 +202,7 @@
   },
   {
     "reference_id": 652,
-    "type": null,
+    "type": "tv_show",
     "name": "America's Test Kitchen",
     "description": null,
     "external_link": null,
@@ -584,7 +584,7 @@
     "episodes_inspired": [
       {
         "episode_id": "thegreystuff",
-        "name": "The Grey Stuff; and other Hors d\u2019Oeuvres inspired by Beauty and the Beast",
+        "name": "The Grey Stuff; and other Hors d’Oeuvres inspired by Beauty and the Beast",
         "published_date": "2019-01-01",
         "youtube_link": "https://www.youtube.com/watch?v=0TvBiF9S89Q",
         "official_link": "https://www.babi.sh/recipes/thegreystuff",
@@ -594,7 +594,7 @@
   },
   {
     "reference_id": 650,
-    "type": null,
+    "type": "youtube_channel",
     "name": "Bigger Bolder Baking",
     "description": null,
     "external_link": null,
@@ -674,7 +674,7 @@
   },
   {
     "reference_id": 643,
-    "type": null,
+    "type": "tv_show",
     "name": "Bluey",
     "description": null,
     "external_link": null,
@@ -724,7 +724,7 @@
       },
       {
         "episode_id": "teddybrulee",
-        "name": "Teddy Br\u00fbl\u00e9e from Bob's Burgers",
+        "name": "Teddy Brûlée from Bob's Burgers",
         "published_date": "2019-05-14",
         "youtube_link": "https://www.youtube.com/watch?v=6pXjR0JyV0s",
         "official_link": "https://www.babi.sh/recipes/teddybrulee",
@@ -759,8 +759,8 @@
   {
     "reference_id": 77,
     "type": "other",
-    "name": "Bon App\u00e9tit's It's Alive With Brad",
-    "description": "A Bon App\u00e9tit cooking series hosted by Brad Leone",
+    "name": "Bon Appétit's It's Alive With Brad",
+    "description": "A Bon Appétit cooking series hosted by Brad Leone",
     "external_link": "https://video.bonappetit.com/series/it-s-alive-with-brad",
     "image_link": "https://img.youtube.com/vi/zr8wAm7i-vo/mqdefault.jpg",
     "episodes_inspired": [
@@ -784,7 +784,7 @@
     "episodes_inspired": [
       {
         "episode_id": "super-hot-n'-spicy-burger-inspired-by-boruto:-naruto-next-generations",
-        "name": "Super Hot N\u2019 Spicy Burger inspired by Boruto: Naruto Next Generations",
+        "name": "Super Hot N’ Spicy Burger inspired by Boruto: Naruto Next Generations",
         "published_date": "2023-04-06",
         "youtube_link": "https://www.youtube.com/watch?v=WHRob85NXP0",
         "official_link": "https://www.babi.sh/recipes/super-hot-n'-spicy-burger-inspired-by-boruto:-naruto-next-generations",
@@ -1160,7 +1160,7 @@
     "reference_id": 600,
     "type": "tv_show",
     "name": "Cowboy Bebop",
-    "description": "1998 Sunrise space-western anime by Shinichir\u014d Watanabe.",
+    "description": "1998 Sunrise space-western anime by Shinichirō Watanabe.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -1294,7 +1294,7 @@
     "reference_id": 594,
     "type": "tv_show",
     "name": "Demon Slayer",
-    "description": "Ufotable anime adapting Koyoharu Gotouge's manga about demon-hunters in Taish\u014d-era Japan.",
+    "description": "Ufotable anime adapting Koyoharu Gotouge's manga about demon-hunters in Taishō-era Japan.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -1454,7 +1454,7 @@
   },
   {
     "reference_id": 574,
-    "type": null,
+    "type": "movie",
     "name": "Drop",
     "description": null,
     "external_link": null,
@@ -1760,7 +1760,7 @@
       },
       {
         "episode_id": "souffle-pancakes-inspired-by-food-wars!",
-        "name": "Souffl\u00e9 Pancakes inspired by Food Wars!",
+        "name": "Soufflé Pancakes inspired by Food Wars!",
         "published_date": "2022-05-12",
         "youtube_link": "https://www.youtube.com/watch?v=kFr6GxEnOJQ",
         "official_link": "https://www.babi.sh/recipes/souffle-pancakes-inspired-by-food-wars!",
@@ -2272,7 +2272,7 @@
   },
   {
     "reference_id": 651,
-    "type": null,
+    "type": "movie",
     "name": "Home Alone 2: Lost in New York",
     "description": null,
     "external_link": null,
@@ -2442,7 +2442,7 @@
     "reference_id": 103,
     "type": "movie",
     "name": "I Love You, Man",
-    "description": "Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fianc\u00e9e, can the trio learn to live happily ever after? IMDb.",
+    "description": "Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fiancée, can the trio learn to live happily ever after? IMDb.",
     "external_link": "https://www.imdb.com/title/tt1155056/",
     "image_link": "https://img.youtube.com/vi/1RYUfEowXgc/mqdefault.jpg",
     "episodes_inspired": [
@@ -2850,7 +2850,7 @@
     "reference_id": 566,
     "type": "other",
     "name": "Korean Street Food",
-    "description": "Cuisine category \u2014 street vendor food traditionally found in Korean markets and pojangmacha tents.",
+    "description": "Cuisine category — street vendor food traditionally found in Korean markets and pojangmacha tents.",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
@@ -3233,7 +3233,7 @@
   },
   {
     "reference_id": 644,
-    "type": null,
+    "type": "movie",
     "name": "Mean Girls",
     "description": null,
     "external_link": null,
@@ -3458,7 +3458,7 @@
   },
   {
     "reference_id": 656,
-    "type": null,
+    "type": "movie",
     "name": "Napoleon Dynamite",
     "description": null,
     "external_link": null,
@@ -3582,7 +3582,7 @@
       },
       {
         "episode_id": "one-piece-tuna-saute",
-        "name": "Sanji\u2019s Tuna Saute Inspired by One Piece",
+        "name": "Sanji’s Tuna Saute Inspired by One Piece",
         "published_date": "2024-02-01",
         "youtube_link": "https://youtu.be/_rk1Foi8E8g",
         "official_link": "https://www.babi.sh/recipes/one-piece-tuna-saute",
@@ -3835,14 +3835,14 @@
   {
     "reference_id": 18,
     "type": "tv_show",
-    "name": "Pok\u00e9mon",
+    "name": "Pokémon",
     "description": "Follows the adventure of Satoshi with his Pokemon, Pikachu and his friends to become the Pokemon master. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0168366/",
     "image_link": "https://i.ytimg.com/sh/4bgqxQYF1YfDZQfSfcg98Q/market.jpg",
     "episodes_inspired": [
       {
         "episode_id": "brocksdonuts",
-        "name": "Brock's Donuts inspired by Pok\u00e9mon",
+        "name": "Brock's Donuts inspired by Pokémon",
         "published_date": "2019-04-02",
         "youtube_link": "https://www.youtube.com/watch?v=RentKWlhUXc",
         "official_link": "https://www.babi.sh/recipes/brocksdonuts",
@@ -3850,7 +3850,7 @@
       },
       {
         "episode_id": "brocksonigiri",
-        "name": "Brock's Onigiri inspired by Pok\u00e9mon",
+        "name": "Brock's Onigiri inspired by Pokémon",
         "published_date": "2019-04-02",
         "youtube_link": "https://www.youtube.com/watch?v=gW4PCfLzTYA&quot;,&quot;width&quot;:854,&quot;height&quot;:480,&quot;providerName&quot;:&quot;YouTube&quot;,&quot;thumbnailUrl&quot;:&quot;https://i.ytimg.com/vi/gW4PCfLzTYA/hqdefault.jpg&quot;,&quot;resolvedBy&quot;:&quot;youtube&quot;&#125;",
         "official_link": "https://www.babi.sh/recipes/brocksonigiri",
@@ -3861,14 +3861,14 @@
   {
     "reference_id": 580,
     "type": "video_game",
-    "name": "Pok\u00e9mon Sword",
-    "description": "Game Freak's 2019 Pok\u00e9mon entry for Nintendo Switch (paired with Pok\u00e9mon Shield).",
+    "name": "Pokémon Sword",
+    "description": "Game Freak's 2019 Pokémon entry for Nintendo Switch (paired with Pokémon Shield).",
     "external_link": null,
     "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "pasta-curry-inspired-by-pokemon-sword-and-shield",
-        "name": "Pasta Curry from Pok\u00e9mon Sword and Shield",
+        "name": "Pasta Curry from Pokémon Sword and Shield",
         "published_date": "2022-09-29",
         "youtube_link": "https://www.youtube.com/watch?v=6G6gDOZie_c&pp=ygUccGFzdGEgY3VycnkgYW5pbWUgd2l0aCBhbHZpbg%3D%3D",
         "official_link": "https://www.babi.sh/recipes/pasta-curry-inspired-by-pokemon-sword-and-shield",
@@ -4341,7 +4341,7 @@
   },
   {
     "reference_id": 640,
-    "type": null,
+    "type": "movie",
     "name": "Shrek 2",
     "description": null,
     "external_link": null,
@@ -4413,7 +4413,7 @@
   },
   {
     "reference_id": 530,
-    "type": null,
+    "type": "movie",
     "name": "Spider-Man",
     "description": null,
     "external_link": null,
@@ -4899,7 +4899,7 @@
     "episodes_inspired": [
       {
         "episode_id": "crepessuzette",
-        "name": "Cr\u00eapes Suzette inspired by Talladega Nights",
+        "name": "Crêpes Suzette inspired by Talladega Nights",
         "published_date": "2019-10-22",
         "youtube_link": "https://www.youtube.com/watch?v=Z1kR6SIr1XA",
         "official_link": "https://www.babi.sh/recipes/crepessuzette",
@@ -5025,7 +5025,7 @@
     "episodes_inspired": [
       {
         "episode_id": "aristocats",
-        "name": "Cr\u00e8me de la Cr\u00e8me \u00e0 la Edgar inspired by The Aristocats",
+        "name": "Crème de la Crème à la Edgar inspired by The Aristocats",
         "published_date": "2019-01-23",
         "youtube_link": "https://www.youtube.com/watch?v=zNY-qzp7pD0",
         "official_link": "https://www.babi.sh/recipes/aristocats",
@@ -5543,7 +5543,7 @@
       },
       {
         "episode_id": "michaelscottpretzel",
-        "name": "Michael Scott\u2019s Pretzel inspired by The Office",
+        "name": "Michael Scott’s Pretzel inspired by The Office",
         "published_date": "2017-10-17",
         "youtube_link": "https://www.youtube.com/watch?v=NHA9Ffaal2M&amp;t=252s",
         "official_link": "https://www.babi.sh/recipes/michaelscottpretzel",
@@ -6167,7 +6167,7 @@
   },
   {
     "reference_id": 657,
-    "type": null,
+    "type": "movie",
     "name": "Willy Wonka & the Chocolate Factory",
     "description": null,
     "external_link": null,
