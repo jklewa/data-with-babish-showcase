@@ -761,7 +761,7 @@
     "type": "other",
     "name": "Bon Appétit's It's Alive With Brad",
     "description": "A Bon Appétit cooking series hosted by Brad Leone",
-    "external_link": "https://video.bonappetit.com/series/it-s-alive-with-brad",
+    "external_link": null,
     "image_link": "https://img.youtube.com/vi/zr8wAm7i-vo/mqdefault.jpg",
     "episodes_inspired": [
       {
@@ -2568,7 +2568,7 @@
     "name": "Jim Gaffigan's Stand Up",
     "description": "Indiana native Jim Gaffigan arrived in New York City in 1990 at the age of 24. Officially, he had relocated to work in advertising, but his real fascination with New York had a lot more to do with pursuing his dream of making people laugh as an actor and stand-up comic, a dream he would eventually realize through hard work and ample talent. IMDb.",
     "external_link": "https://www.imdb.com/name/nm0300712/",
-    "image_link": "https://img.youtube.com/vi/-o-u4IwXkbE/mqdefault.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jim_Gaffigan_June_2023_%28cropped%29.jpg/330px-Jim_Gaffigan_June_2023_%28cropped%29.jpg",
     "episodes_inspired": [
       {
         "episode_id": "cinnamonrolls",
@@ -2826,7 +2826,7 @@
     "name": "King of the Hill",
     "description": "A straight laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends, while also trying to keep his son in line. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0118375/",
-    "image_link": "https://yt3.ggpht.com/rEz9pe87zWHaKJUJd2-GJHBkrDlqXgk4GX28GGfSizrnRZX4F-hMAuiNT5MAUTiphZUdt-Mt8Q=s288-c-k-c0xffffffff-no-rj-mo",
+    "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "bobbys-cookies-king-of-the-hill",
@@ -3129,7 +3129,7 @@
     "name": "Marvel's Spider-Man",
     "description": "When a new villain threatens New York City, Peter Parker and Spider-Man's worlds collide. To save the city and those he loves, he must rise up and be greater. IMDb.",
     "external_link": "https://www.imdb.com/title/tt5807780/",
-    "image_link": "https://yt3.ggpht.com/c3ynpDktI_tZUzsXdyeujdP8TjIPPex03wALk_G5mcAZqjS27ssd0XvhN5Sl3jySIg48SK_EvA=w390-h540-nd",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/e/e1/Spider-Man_PS4_cover.jpg",
     "episodes_inspired": [
       {
         "episode_id": "spidermanbackpackrecipes",
@@ -3183,7 +3183,7 @@
     "name": "Mary Jane's Pa",
     "description": "Sam Preston is a small-town newspaper publisher who suffers from wanderlust. Leaving his family (wife Ellen, two daughters and a son,) he thinks well-provided for, he packs a suitcase and hits the road. Ten years later he comes back to find the newspaper shuttered and his family gone. He wanders from town to town searching for them and, finally, comes upon a little lost girl named Mary James, takes her to her home, and discovers she is his youngest daughter. Ellen is now running another newspaper, and is interested in politics...and another man. But after he pleads to remain with his children, she allows him to stay incognito as a housekeeper. Then, the town gossips go to work. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0026689/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BZDQzYjA2OTctM2M4YS00Y2I5LWExNjUtODQ4MmFlOTA3ZDg1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTY0ODExODc@._V1_UY268_CR15,0,182,268_AL_.jpg",
+    "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "egginanest",
@@ -3201,7 +3201,7 @@
     "name": "Master of None",
     "description": "The personal and professional life of Dev, a 30-year-old actor in New York. IMDb.",
     "external_link": "https://www.imdb.com/title/tt4635276/",
-    "image_link": "https://img.youtube.com/vi/8JCBvAb240I/mqdefault.jpg",
+    "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "spaghetti-carbonara-inspired-by-master-of-none",
@@ -3345,7 +3345,7 @@
     "name": "Moon over Miami",
     "description": "Sisters Kay and Barbara arrive in Miami from Texas looking for rich husbands. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0033918/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMjEzNjE0ODA1OV5BMl5BanBnXkFtZTgwNDE1Mjg2MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/4/4d/Moon_over_miami.jpg",
     "episodes_inspired": [
       {
         "episode_id": "egginanest",
@@ -3722,7 +3722,7 @@
     "name": "Peep Show",
     "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0387764/",
-    "image_link": "https://img.youtube.com/vi/OfKewRzqh8I/mqdefault.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/d/d9/Peep_Show_logo.jpg",
     "episodes_inspired": [
       {
         "episode_id": "moroccanpasta",
@@ -3882,7 +3882,7 @@
     "name": "Portal",
     "description": "A test subject wakes up in a scientific facility controlled by a sadistic artificial intelligence and must escape with the help of the only instrument she has--a gun that makes portals. IMDb.",
     "external_link": "https://www.imdb.com/title/tt1127708/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMmFjNTQzYzItZWRlNC00OTY2LTliZTUtZDU1MTBkNWIyNGUxXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY268_CR16,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/9f/Portal_standalonebox.jpg",
     "episodes_inspired": [
       {
         "episode_id": "portalcake",
@@ -4006,7 +4006,7 @@
     "name": "Red Dead Redemption 2",
     "description": "Amidst the decline of the Wild West at the turn of the 19th century, outlaw Arthur Morgan and his gang struggle to cope with the loss of their way of life. IMDb.",
     "external_link": "https://www.imdb.com/title/tt6161168/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMThiMGJkNDUtYjIxYy00ZTRhLWE5NmUtNzI4NTJlOGI4ZTMwXkEyXkFqcGdeQXVyNTk1ODMyNjA@._V1_UY268_CR17,0,182,268_AL_.jpg",
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
     "episodes_inspired": [
       {
         "episode_id": "bearstew",
@@ -4859,7 +4859,7 @@
     "name": "Sweetness and Lightning",
     "description": "Six months after his wife's death, a highschool teacher struggles to raise his daughter due to his inability to cook. When he meets an introverted student, who's also a part-time cook, he decides to learn to cook good meals for his daughter. IMDb.",
     "external_link": "https://www.imdb.com/title/tt5853222/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BY2ZiNzA0M2QtYjE2NC00ZTJjLWIyMDMtN2Q2ZmUwNjFmNjhmXkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "okonomiyaki",
@@ -5107,7 +5107,7 @@
     "name": "The Boondocks",
     "description": "Based on the comic strip, Huey and Riley move away from the city and out to the suburbs with their irascible grandfather. Biting socio-political commentary ensues. IMDb.",
     "external_link": "https://www.imdb.com/title/tt0373732/",
-    "image_link": "https://m.media-amazon.com/images/M/MV5BMjA5OTNhNDQtODU0ZS00MmMyLWJkZmMtZmIyNjRhOTFlODMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+    "image_link": null,
     "episodes_inspired": [
       {
         "episode_id": "fried-chicken-waffle-breakfast-lasagna-inspired-by-the-boondocks",
